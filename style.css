@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* .....start header part.... */
+
+.text_color{
+    color: #6A983C;
+}
+
+.search_bar{
+    position: relative;
+}
+.search_tab{
+    width: 500px;
+    
+}
+
+.search_icon{
+    position: absolute;
+    top: 12px;
+    right: 10px;
+    
+}
+
+/* banner side mennu  */
+.banner_img_1{
+    width: 400px;
+    height: 260px;
+   background-image: url(./images/banner/01.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.banner_img_2{
+    width: 400px;
+    height: 260px;
+   background-image: url(./images/banner/02.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+
+
+/* media query start  */
+
+/* @media only screen and (max-width:924px){
+    .search_tab{
+        width: 300px;
+        color:blue;
+        
+    }
+    .search_icon{
+        left: 42%;
+    }
+} */
