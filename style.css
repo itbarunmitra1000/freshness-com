@@ -29,14 +29,14 @@ body{
 
 /* banner side mennu  */
 .banner_img_1{
-    width: 400px;
+    width: 80%;
     height: 260px;
    background-image:linear-gradient(rgba(0,0,0,0.9),rgba(158, 86, 86, 0.3)), url(./images/banner/01.jpg);
    background-repeat: no-repeat;
    background-size: cover;
 }
 .banner_img_2{
-    width: 400px;
+    width: 80%;
     height: 260px;
    background-image: linear-gradient(rgba(0,0,0,0.9),rgba(158, 86, 86, 0.3)), url(./images/banner/02.jpg);
    background-repeat: no-repeat;
